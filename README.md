@@ -1,4 +1,4 @@
-# Jodo da avinhação 
+# Jogo da avinhação 
 
 - Projeto feito durante o estágio 5 do explorer 
 - Utilização de HTML, CSS E Javascript 
